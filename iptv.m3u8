@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 1 HD.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_62",Eurosport 1
 http://147.135.210.90:8081/tv/eurosport-1/chunks.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_65",Eurosport 2 HD
-http://myott.top/stream/DIPK8H19CP8/192.m3u8
+https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 4K.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_994",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_152",Матч! Арена
