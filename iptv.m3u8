@@ -13,6 +13,8 @@ https://95-213-224-187.livesports24.online/ruseurosport2.m3u8
 https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 4K.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_994",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
+#EXTINF:1group-title="Спорт",itv4
+http://51.52.156.22:8888/http/007
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Арена.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_152",Матч! Арена
 http://51.68.141.106:8081/tv/match-arena/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Матч! Игра.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_155",Матч! Игра
