@@ -3,14 +3,14 @@
 http://147.135.210.90:8081/tv/eurosport-1/chunks.m3u8
 #EXTINF:0 group-title="Спорт",EUROSPORT 2
 https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
-#EXTINF:0 group-title="Спорт",EUROSPORT 2
-https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
 #EXTINF:-1 group-title="Спорт",EUROSPORT 2
 http://91.201.177.2:2517/udp/239.192.2.10:2121
 #EXTINF:0 group-title="Спорт",EUROSPORT 2
 https://95-213-224-187.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_65",Eurosport 2 HD
 https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
+#EXTINF:-1 group-title="Спорт", EUROSPORT 1 HD
+http://185.71.64.167:80/307215676115/307215676115/81570
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 4K.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_994",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2
 #EXTINF:1group-title="Спорт",itv4
