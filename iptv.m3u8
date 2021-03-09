@@ -7,6 +7,8 @@ https://ch.iptvmate.net/5e93501b8beb894140335ff1.m3u8
 http://91.201.177.2:2517/udp/239.192.2.10:2121
 #EXTINF:0 group-title="Спорт",EUROSPORT 2
 https://95-213-224-187.livesports24.online/ruseurosport2.m3u8
+#EXTINF:0 group-title="Спорт",EUROSPORT 2 HD
+http://spacetv.in/stream/DA5345HD3KZ/192.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="../Channel/Logo/Eurosport 2 HD.png" tvg-id="31a6e424a0dd00ee9fdfcd6dd533f5b5_65",Eurosport 2 HD
 https://95-213-172-213.livesports24.online/ruseurosport2.m3u8
 #EXTINF:-1 group-title="Спорт", EUROSPORT 1 HD
@@ -37,3 +39,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 https://s4.idata.uz/animal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="Mezzo Live HD",Mezzo Live HD
 http://45.88.104.104/play/165/index.m3u8
+#EXTINF:-1 group-title="Запорожье", АЛЕКС (ЗАПОРОЖЬЕ)
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1 group-title="Запорожье", ТВ 5 (ЗАПОРОЖЬЕ)
+http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
